@@ -1,4 +1,0 @@
-openai
-whisper
-pydantic
-python-dotenv
