@@ -1,6 +1,6 @@
 🕵️‍♂️ Autonomous Forensic Data Capture
 
-A specialized background logging agent designed for high-integrity data capture, automated metadata auditing, and persistent forensic storage. This tool is built to handle continuous monitoring and secure logging of system-level audio and metadata.
+Faster whisper 3 and int8 quantization.A specialized background logging agent designed for high-integrity data capture, automated metadata auditing, and persistent forensic storage. This tool is built to handle continuous monitoring and secure logging of system-level audio and metadata.
 
 ....................
 🛠 Core Capabilities
